@@ -24,4 +24,4 @@ I'm 19 years old student studying in Turin Polytechnic University in Tashkent. H
 
 - Uzbek - Native 
 - Russian - Advanced
-- English - Intermediate (IELTS band score 5)
+- English - Intermediate (IELTS band score 5.0)
