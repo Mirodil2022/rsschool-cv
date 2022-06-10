@@ -11,7 +11,7 @@
 
 ### About myself ###
 
-I'm 19 years old student studying in Turin Polytechnic University in Tashkent. Highly motivated to programming in frontend development. My goal is get an experience from RS School and become Junior Frontend Developer.
+I'm 19 years old student studying in Turin Polytechnic University in Tashkent. Highly motivated to programming in Frontend Development. My goal is get an experience from RS School and become Junior Frontend Developer.
 
 ### SKILLS ###
 
